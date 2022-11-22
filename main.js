@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
 } );
 
 
-
+// et ceci ça fait cela
 function onClickXHRButton(){
     var container = document.getElementById("xhr-response");
     container.innerHTML = "Ok je vois !";
